@@ -24,6 +24,10 @@ set relativenumber
 set cursorline
 set rnu
 
+" base netrw config
+let g:netrw_liststyle = 3
+let g:netrw_banner = 0
+
 " snippets - when new file, insert a skeleton
 augroup skeletons
   au!
