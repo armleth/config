@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/afs/cri.epita.fr/user/a/ar/armand.thibaudon/u/ing1/piscine/epita-ing-assistants-acu-piscine-2026-armand.thibaudon/tinylibstream/src'
+let g:netrw_dirhist_8='/afs/cri.epita.fr/user/a/ar/armand.thibaudon/u/ing1/piscine/epita-ing-assistants-acu-piscine-2026-armand.thibaudon/test_a_bit'
+let g:netrw_dirhist_7='/afs/cri.epita.fr/user/a/ar/armand.thibaudon/u/ing1/piscine/d4/33'
+let g:netrw_dirhist_6='/afs/cri.epita.fr/user/a/ar/armand.thibaudon/u/ing1/piscine/d2/321'
+let g:netrw_dirhist_5='/afs/cri.epita.fr/user/a/ar/armand.thibaudon/u/.confs/afs'
+let g:netrw_dirhist_4='/afs/cri.epita.fr/user/a/ar/armand.thibaudon/u/.confs'
+let g:netrw_dirhist_3='/afs/cri.epita.fr/user/a/ar/armand.thibaudon/u/ing1/piscine/d1/afternoon/print_arguments.c'
+let g:netrw_dirhist_2='/afs/cri.epita.fr/user/a/ar/armand.thibaudon/u/.confs/config/i3'
+let g:netrw_dirhist_1='/afs/cri.epita.fr/user/a/ar/armand.thibaudon/u/.confs/config'
+let g:netrw_dirhist_0='/afs/cri.epita.fr/user/a/ar/armand.thibaudon/u/.confs'
